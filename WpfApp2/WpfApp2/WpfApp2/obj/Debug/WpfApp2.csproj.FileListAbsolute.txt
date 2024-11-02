@@ -1,0 +1,14 @@
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+E:\Visual studio\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+E:\Visual studio\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+E:\Visual studio\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+E:\Visual studio\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
